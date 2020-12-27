@@ -1,0 +1,12 @@
+html, body {
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-color: #f4f6f6;
+}
+.home-container {
+    max-width: 100%;
+    height: 100vh;
+    background: url("../Images/Smavators-bg.svg") no-repeat;
+    background-size: cover;
+}
